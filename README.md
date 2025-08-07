@@ -21,5 +21,8 @@ Python, NumPy, SciPy, Matplotlib
 
      -Plot histograms to visualize the behavior
 
-## Results
+## 📊 Results:
 The overall conclusion indicates that the plan generating the highest revenue is the Surf plan, first because it has the largest number of subscribed users, and second because it generates more revenue from additional service charges incurred by users.
+
+
+
